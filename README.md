@@ -26,7 +26,7 @@ Implement the pstr opcode.
 Implement the rotl opcode.
 Implement the rotr opcode.
 Implement the stack and queue opcodes.
-Write a Brainf*ck script that prints Holberton (at bf/dir)
+Write a Brainf*ck script that prints School (at bf/dir)
 Read the two digits from stdin, add them, and print the result (at bf/dir)
 Read the two digits from stdin, multiply them, and print the result (at bf/dir)
 Multiply two digits given by the user. (at bf/dir)
